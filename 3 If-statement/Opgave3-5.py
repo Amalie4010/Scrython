@@ -1,0 +1,1 @@
+import random # Det her skal i du ikke slette

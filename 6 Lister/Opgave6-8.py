@@ -1,0 +1,1 @@
+små_dyr = ["Sommerfugl", "Bænkebider", "Bille", "Myg", "Edderkop"]
